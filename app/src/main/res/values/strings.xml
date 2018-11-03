@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FirebaseAuth</string>
+    <string name="eurobetonplus">eurobetonplus.ru</string>
+    <string name="forgot">Забыли пароль?</string>
+    <string name="reset_password">Чтобы сбросить пароль, введите свой адрес электронной почты, нажмите кнопку, затем проверьте почту и следуйте инструкциям.</string>
+    <string name="your_email">Напишите ваш адрес</string>
+    <string name="reset">Сбросить пароль</string>
+    <string name="back">Назад</string>
+    <string name="adress">Адрес</string>
+    <string name="pass">Пароль</string>
+    <string name="enter">Вход</string>
+    <string name="new_acc">Новый</string>
+    <string name="title_activity_reset_password">ResetPasswordActivity</string>
+</resources>
